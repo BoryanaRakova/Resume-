@@ -17,7 +17,7 @@
     </option>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf />
   </component>
   <component name="Git.Settings">
     <option name="PREVIOUS_COMMIT_AUTHORS">
@@ -70,6 +70,39 @@
             </path>
             <path>
               <item name="workspace" type="b2602c69:ProjectViewProjectNode" />
+              <item name="workspace" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name=".c9" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="resume" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="workspace" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="workspace" type="b2602c69:ProjectViewProjectNode" />
+              <item name="workspace" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name=".c9" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="resume" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="workspace" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="assets" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="workspace" type="b2602c69:ProjectViewProjectNode" />
+              <item name="workspace" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name=".c9" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="resume" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="workspace" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="assets" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="css" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="workspace" type="b2602c69:ProjectViewProjectNode" />
+              <item name="workspace" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name=".c9" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="resume" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="workspace" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="assets" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="cv" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="workspace" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="bcb0276e:PhpExternalLibrariesNodePatcher$PatchedExternalLibrariesNode" />
             </path>
             <path>
@@ -114,7 +147,8 @@
       <workItem from="1562158988816" duration="8000" />
       <workItem from="1562236583352" duration="763000" />
       <workItem from="1562237377675" duration="499000" />
-      <workItem from="1562589132000" duration="993000" />
+      <workItem from="1562589132000" duration="1459000" />
+      <workItem from="1562591075495" duration="6000" />
     </task>
     <task id="LOCAL-00001" summary="resume">
       <created>1562236631822</created>
@@ -134,12 +168,12 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2454000" />
+    <option name="totallyTimeSpent" value="2926000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="801" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26466382" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26824033" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" weight="0.32954547" />
@@ -171,26 +205,7 @@
     <option name="LAST_COMMIT_MESSAGE" value="resume" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.c9/project.settings">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.c9/resume/tab6">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.c9/resume/tab2">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.c9/resume/tab1">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md" />
     <entry file="file://$PROJECT_DIR$/.c9/resume/tab0">
       <provider selected="true" editor-type-id="text-editor">
         <state>
